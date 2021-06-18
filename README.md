@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christyono
-- 👀 I’m interested in jamstack, data science, data analytics, machine learning
-- 🌱 I’m currently learning to create machine learning models
+- 👀 I’m interested in JAMstack, data analytics, machine learning, blockchain, cryptocurrencies, backend engineering
+- 🌱 I’m currently learning to create DNNs using Tensorflow for CV tasks.
 - 💞️ I’m looking to work on projects I enjoy
 - 📫 How to reach me: dm me on LinkedIn.
 
